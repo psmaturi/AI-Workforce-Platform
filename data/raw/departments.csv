@@ -1,0 +1,11 @@
+id,name,code,description,head_name,location,is_active
+1,Mechanical Maintenance,MECH,"Responsible for mechanical plant maintenance, piping, and equipment reliability.",Rajesh Verma,Jamshedpur Plant,True
+2,Electrical & Electronics,ELEC,"Handles electrical grids, motors, sub-stations, and instrumentation.",Sanjay Sen,Jamshedpur Plant,True
+3,Automation & Control,AUTO,"PLC systems, SCADA networks, and automated rolling mill controls.",Amit Patel,Jamshedpur Plant,True
+4,Blast Furnace Operations,BF,"Ironmaking operations, raw material charging, and hot metal tapping.",Vijay Prasad,Jamshedpur Plant,True
+5,Rolling Mill Operations,RM,"Hot and cold rolling operations for sheets, wires, and structural steels.",Karan Mishra,Jamshedpur Plant,True
+6,Quality Assurance & Metallurgy,QA,"Chemical composition verification, tensile testing, and quality certification.",Meera Joshi,Jamshedpur Plant,True
+7,Supply Chain & SCM,SCM,"Logistics, raw material imports, and finished steel distribution.",Ananya Roy,Plant HQ,True
+8,Information Technology,IT,"Enterprise software support, SAP systems, and networking infrastructure.",Nikhil Bose,Plant HQ,True
+9,AI & Digital Initiatives,AI,"Predictive modeling, computer vision for safety, and digital twin implementations.",Pranav Gupta,Plant HQ,True
+10,Human Resources & L&D,HR,"Talent acquisition, employee self-service portal, training catalog management.",James Okonkwo,Plant HQ,True

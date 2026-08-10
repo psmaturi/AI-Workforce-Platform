@@ -1,0 +1,11 @@
+id,department_id,skill_id,risk_type,risk_level,description
+1,1,177,Single-person Dependency,Critical,Critical dependency on single personnel for skill Safety skill - Compliance 177.
+2,2,54,Skill Deficiency,High,Critical dependency on single personnel for skill Technical skill - Metallurgy 54.
+3,3,189,Skill Deficiency,Critical,Critical dependency on single personnel for skill Safety skill - Industrial Safety 189.
+4,4,67,Single-person Dependency,Critical,Critical dependency on single personnel for skill Technical skill - Automation 67.
+5,5,6,Retirement Risk,Critical,Critical dependency on single personnel for skill Equipment Reliability.
+6,6,105,Single-person Dependency,High,Critical dependency on single personnel for skill Safety skill - Compliance 105.
+7,7,17,Retirement Risk,Critical,Critical dependency on single personnel for skill LOTO.
+8,8,55,Retirement Risk,Critical,Critical dependency on single personnel for skill Technical skill - Instrumentation 55.
+9,9,143,Single-person Dependency,High,Critical dependency on single personnel for skill Safety skill - Compliance 143.
+10,10,4,Retirement Risk,Critical,Critical dependency on single personnel for skill Predictive Maintenance.

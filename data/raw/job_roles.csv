@@ -1,0 +1,72 @@
+id,title,department_id,grade,track,min_experience_years,description,preferred_certifications,is_active
+1,Technician - Mechanical,1,2,Technical,0,Performs basic maintenance and repairs of mechanical systems.,ITI Mechanical,True
+2,Senior Technician - Mechanical,1,3,Technical,3,"Performs complex mechanical maintenance, diagnostics, and repairs.","ITI Mechanical, Safety Certification",True
+3,Mechanical Engineer,1,5,Technical,2,"Coordinates maintenance schedules, plans shutdowns, and executes reliability projects.",B.Tech Mechanical Engineering,True
+4,Senior Mechanical Engineer,1,6,Technical,6,"Designs complex mechanical system modifications, manages engineering projects.","B.Tech Mechanical Engineering, Project Management",True
+5,Mechanical Specialist,1,7,Technical,10,"Domain expert in mechanical systems, vibration analysis, and failure diagnostics.","M.Tech Mechanical Engineering, Vibration Analyst Level II",True
+6,EAF Mechanical Specialist,1,7,Technical,8,"Domain expert in Electric Arc Furnace (EAF) mechanical operations, electrode columns, and hydraulics.","B.Tech Mechanical, EAF Safety and Design",True
+7,Engineering Manager,1,8,Leadership,8,"Manages mechanical maintenance teams, shutdown budgets, and asset reliability.",B.Tech Mechanical + MBA,True
+8,Technician - Electrical & Electronics,2,2,Technical,0,Responsible for technician tasks in Electrical & Electronics.,Degree/Diploma in relevant field,True
+9,Senior Technician - Electrical & Electronics,2,3,Technical,2,Responsible for senior technician tasks in Electrical & Electronics.,Degree/Diploma in relevant field,True
+10,Engineer - Electrical & Electronics,2,4,Technical,4,Responsible for engineer tasks in Electrical & Electronics.,Degree/Diploma in relevant field,True
+11,Senior Engineer - Electrical & Electronics,2,5,Technical,6,Responsible for senior engineer tasks in Electrical & Electronics.,Degree/Diploma in relevant field,True
+12,Specialist - Electrical & Electronics,2,6,Technical,8,Responsible for specialist tasks in Electrical & Electronics.,Degree/Diploma in relevant field,True
+13,Manager - Electrical & Electronics,2,7,Leadership,10,Responsible for manager tasks in Electrical & Electronics.,Degree/Diploma in relevant field,True
+14,Head - Electrical & Electronics,2,8,Leadership,12,Responsible for head tasks in Electrical & Electronics.,Degree/Diploma in relevant field,True
+15,Technician - Automation & Control,3,2,Technical,0,Responsible for technician tasks in Automation & Control.,Degree/Diploma in relevant field,True
+16,Senior Technician - Automation & Control,3,3,Technical,2,Responsible for senior technician tasks in Automation & Control.,Degree/Diploma in relevant field,True
+17,Engineer - Automation & Control,3,4,Technical,4,Responsible for engineer tasks in Automation & Control.,Degree/Diploma in relevant field,True
+18,Senior Engineer - Automation & Control,3,5,Technical,6,Responsible for senior engineer tasks in Automation & Control.,Degree/Diploma in relevant field,True
+19,Specialist - Automation & Control,3,6,Technical,8,Responsible for specialist tasks in Automation & Control.,Degree/Diploma in relevant field,True
+20,Manager - Automation & Control,3,7,Leadership,10,Responsible for manager tasks in Automation & Control.,Degree/Diploma in relevant field,True
+21,Head - Automation & Control,3,8,Leadership,12,Responsible for head tasks in Automation & Control.,Degree/Diploma in relevant field,True
+22,Technician - Blast Furnace Operations,4,2,Technical,0,Responsible for technician tasks in Blast Furnace Operations.,Degree/Diploma in relevant field,True
+23,Senior Technician - Blast Furnace Operations,4,3,Technical,2,Responsible for senior technician tasks in Blast Furnace Operations.,Degree/Diploma in relevant field,True
+24,Engineer - Blast Furnace Operations,4,4,Technical,4,Responsible for engineer tasks in Blast Furnace Operations.,Degree/Diploma in relevant field,True
+25,Senior Engineer - Blast Furnace Operations,4,5,Technical,6,Responsible for senior engineer tasks in Blast Furnace Operations.,Degree/Diploma in relevant field,True
+26,Specialist - Blast Furnace Operations,4,6,Technical,8,Responsible for specialist tasks in Blast Furnace Operations.,Degree/Diploma in relevant field,True
+27,Manager - Blast Furnace Operations,4,7,Leadership,10,Responsible for manager tasks in Blast Furnace Operations.,Degree/Diploma in relevant field,True
+28,Head - Blast Furnace Operations,4,8,Leadership,12,Responsible for head tasks in Blast Furnace Operations.,Degree/Diploma in relevant field,True
+29,Technician - Rolling Mill Operations,5,2,Technical,0,Responsible for technician tasks in Rolling Mill Operations.,Degree/Diploma in relevant field,True
+30,Senior Technician - Rolling Mill Operations,5,3,Technical,2,Responsible for senior technician tasks in Rolling Mill Operations.,Degree/Diploma in relevant field,True
+31,Engineer - Rolling Mill Operations,5,4,Technical,4,Responsible for engineer tasks in Rolling Mill Operations.,Degree/Diploma in relevant field,True
+32,Senior Engineer - Rolling Mill Operations,5,5,Technical,6,Responsible for senior engineer tasks in Rolling Mill Operations.,Degree/Diploma in relevant field,True
+33,Specialist - Rolling Mill Operations,5,6,Technical,8,Responsible for specialist tasks in Rolling Mill Operations.,Degree/Diploma in relevant field,True
+34,Manager - Rolling Mill Operations,5,7,Leadership,10,Responsible for manager tasks in Rolling Mill Operations.,Degree/Diploma in relevant field,True
+35,Head - Rolling Mill Operations,5,8,Leadership,12,Responsible for head tasks in Rolling Mill Operations.,Degree/Diploma in relevant field,True
+36,Technician - Quality Assurance & Metallurgy,6,2,Technical,0,Responsible for technician tasks in Quality Assurance & Metallurgy.,Degree/Diploma in relevant field,True
+37,Senior Technician - Quality Assurance & Metallurgy,6,3,Technical,2,Responsible for senior technician tasks in Quality Assurance & Metallurgy.,Degree/Diploma in relevant field,True
+38,Engineer - Quality Assurance & Metallurgy,6,4,Technical,4,Responsible for engineer tasks in Quality Assurance & Metallurgy.,Degree/Diploma in relevant field,True
+39,Senior Engineer - Quality Assurance & Metallurgy,6,5,Technical,6,Responsible for senior engineer tasks in Quality Assurance & Metallurgy.,Degree/Diploma in relevant field,True
+40,Specialist - Quality Assurance & Metallurgy,6,6,Technical,8,Responsible for specialist tasks in Quality Assurance & Metallurgy.,Degree/Diploma in relevant field,True
+41,Manager - Quality Assurance & Metallurgy,6,7,Leadership,10,Responsible for manager tasks in Quality Assurance & Metallurgy.,Degree/Diploma in relevant field,True
+42,Head - Quality Assurance & Metallurgy,6,8,Leadership,12,Responsible for head tasks in Quality Assurance & Metallurgy.,Degree/Diploma in relevant field,True
+43,Technician - Supply Chain & SCM,7,2,Technical,0,Responsible for technician tasks in Supply Chain & SCM.,Degree/Diploma in relevant field,True
+44,Senior Technician - Supply Chain & SCM,7,3,Technical,2,Responsible for senior technician tasks in Supply Chain & SCM.,Degree/Diploma in relevant field,True
+45,Engineer - Supply Chain & SCM,7,4,Technical,4,Responsible for engineer tasks in Supply Chain & SCM.,Degree/Diploma in relevant field,True
+46,Senior Engineer - Supply Chain & SCM,7,5,Technical,6,Responsible for senior engineer tasks in Supply Chain & SCM.,Degree/Diploma in relevant field,True
+47,Specialist - Supply Chain & SCM,7,6,Technical,8,Responsible for specialist tasks in Supply Chain & SCM.,Degree/Diploma in relevant field,True
+48,Manager - Supply Chain & SCM,7,7,Leadership,10,Responsible for manager tasks in Supply Chain & SCM.,Degree/Diploma in relevant field,True
+49,Head - Supply Chain & SCM,7,8,Leadership,12,Responsible for head tasks in Supply Chain & SCM.,Degree/Diploma in relevant field,True
+50,Technician - Information Technology,8,2,Technical,0,Responsible for technician tasks in Information Technology.,Degree/Diploma in relevant field,True
+51,Senior Technician - Information Technology,8,3,Technical,2,Responsible for senior technician tasks in Information Technology.,Degree/Diploma in relevant field,True
+52,Engineer - Information Technology,8,4,Technical,4,Responsible for engineer tasks in Information Technology.,Degree/Diploma in relevant field,True
+53,Senior Engineer - Information Technology,8,5,Technical,6,Responsible for senior engineer tasks in Information Technology.,Degree/Diploma in relevant field,True
+54,Specialist - Information Technology,8,6,Technical,8,Responsible for specialist tasks in Information Technology.,Degree/Diploma in relevant field,True
+55,Manager - Information Technology,8,7,Leadership,10,Responsible for manager tasks in Information Technology.,Degree/Diploma in relevant field,True
+56,Head - Information Technology,8,8,Leadership,12,Responsible for head tasks in Information Technology.,Degree/Diploma in relevant field,True
+57,Technician - AI & Digital Initiatives,9,2,Technical,0,Responsible for technician tasks in AI & Digital Initiatives.,Degree/Diploma in relevant field,True
+58,Senior Technician - AI & Digital Initiatives,9,3,Technical,2,Responsible for senior technician tasks in AI & Digital Initiatives.,Degree/Diploma in relevant field,True
+59,Engineer - AI & Digital Initiatives,9,4,Technical,4,Responsible for engineer tasks in AI & Digital Initiatives.,Degree/Diploma in relevant field,True
+60,Senior Engineer - AI & Digital Initiatives,9,5,Technical,6,Responsible for senior engineer tasks in AI & Digital Initiatives.,Degree/Diploma in relevant field,True
+61,Specialist - AI & Digital Initiatives,9,6,Technical,8,Responsible for specialist tasks in AI & Digital Initiatives.,Degree/Diploma in relevant field,True
+62,Manager - AI & Digital Initiatives,9,7,Leadership,10,Responsible for manager tasks in AI & Digital Initiatives.,Degree/Diploma in relevant field,True
+63,Head - AI & Digital Initiatives,9,8,Leadership,12,Responsible for head tasks in AI & Digital Initiatives.,Degree/Diploma in relevant field,True
+64,Technician - Human Resources & L&D,10,2,Technical,0,Responsible for technician tasks in Human Resources & L&D.,Degree/Diploma in relevant field,True
+65,Senior Technician - Human Resources & L&D,10,3,Technical,2,Responsible for senior technician tasks in Human Resources & L&D.,Degree/Diploma in relevant field,True
+66,Engineer - Human Resources & L&D,10,4,Technical,4,Responsible for engineer tasks in Human Resources & L&D.,Degree/Diploma in relevant field,True
+67,Senior Engineer - Human Resources & L&D,10,5,Technical,6,Responsible for senior engineer tasks in Human Resources & L&D.,Degree/Diploma in relevant field,True
+68,Specialist - Human Resources & L&D,10,6,Technical,8,Responsible for specialist tasks in Human Resources & L&D.,Degree/Diploma in relevant field,True
+69,Manager - Human Resources & L&D,10,7,Leadership,10,Responsible for manager tasks in Human Resources & L&D.,Degree/Diploma in relevant field,True
+70,Head - Human Resources & L&D,10,8,Leadership,12,Responsible for head tasks in Human Resources & L&D.,Degree/Diploma in relevant field,True
+71,HR Business Partner,10,7,Leadership,6,Aligns business objectives with employees and management in designated business units.,MBA HR,True

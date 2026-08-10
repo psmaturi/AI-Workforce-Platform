@@ -1,0 +1,501 @@
+id,employee_id,target_role_id,target_role_name,target_timeline_months,current_progress_pct,status,notes
+1,1,7,Engineering Manager,12,27.7,Active,Aligned with annual career development plan.
+2,2,6,EAF Mechanical Specialist,24,5.4,Active,Aligned with annual career development plan.
+3,3,21,Head - Automation & Control,18,6.9,Active,Aligned with annual career development plan.
+4,4,48,Manager - Supply Chain & SCM,24,25.8,Active,Aligned with annual career development plan.
+5,5,3,Mechanical Engineer,12,51.3,Active,Aligned with annual career development plan.
+6,6,47,Specialist - Supply Chain & SCM,12,24.3,Active,Aligned with annual career development plan.
+7,7,39,Senior Engineer - Quality Assurance & Metallurgy,12,58.3,Active,Aligned with annual career development plan.
+8,8,68,Specialist - Human Resources & L&D,18,1.4,Active,Aligned with annual career development plan.
+9,9,49,Head - Supply Chain & SCM,12,27.9,Active,Aligned with annual career development plan.
+10,10,50,Technician - Information Technology,18,44.8,Active,Aligned with annual career development plan.
+11,11,47,Specialist - Supply Chain & SCM,12,35.9,Active,Aligned with annual career development plan.
+12,12,19,Specialist - Automation & Control,24,26.6,Active,Aligned with annual career development plan.
+13,13,47,Specialist - Supply Chain & SCM,24,8.7,Active,Aligned with annual career development plan.
+14,14,20,Manager - Automation & Control,18,68.0,Active,Aligned with annual career development plan.
+15,15,24,Engineer - Blast Furnace Operations,12,15.1,Active,Aligned with annual career development plan.
+16,16,41,Manager - Quality Assurance & Metallurgy,24,4.7,Active,Aligned with annual career development plan.
+17,17,27,Manager - Blast Furnace Operations,18,15.1,Active,Aligned with annual career development plan.
+18,18,35,Head - Rolling Mill Operations,12,17.1,Active,Aligned with annual career development plan.
+19,19,18,Senior Engineer - Automation & Control,24,35.2,Active,Aligned with annual career development plan.
+20,20,44,Senior Technician - Supply Chain & SCM,18,41.9,Active,Aligned with annual career development plan.
+21,21,21,Head - Automation & Control,18,12.3,Active,Aligned with annual career development plan.
+22,22,20,Manager - Automation & Control,12,25.8,Active,Aligned with annual career development plan.
+23,23,63,Head - AI & Digital Initiatives,12,20.2,Active,Aligned with annual career development plan.
+24,24,56,Head - Information Technology,18,51.5,Active,Aligned with annual career development plan.
+25,25,61,Specialist - AI & Digital Initiatives,24,66.9,Active,Aligned with annual career development plan.
+26,26,33,Specialist - Rolling Mill Operations,12,43.5,Active,Aligned with annual career development plan.
+27,27,67,Senior Engineer - Human Resources & L&D,24,69.2,Active,Aligned with annual career development plan.
+28,28,14,Head - Electrical & Electronics,18,44.3,Active,Aligned with annual career development plan.
+29,29,32,Senior Engineer - Rolling Mill Operations,24,1.2,Active,Aligned with annual career development plan.
+30,30,7,Engineering Manager,12,32.2,Active,Aligned with annual career development plan.
+31,31,11,Senior Engineer - Electrical & Electronics,18,27.8,Active,Aligned with annual career development plan.
+32,32,35,Head - Rolling Mill Operations,18,69.7,Active,Aligned with annual career development plan.
+33,33,70,Head - Human Resources & L&D,24,48.3,Active,Aligned with annual career development plan.
+34,34,71,HR Business Partner,12,52.7,Active,Aligned with annual career development plan.
+35,35,14,Head - Electrical & Electronics,12,41.9,Active,Aligned with annual career development plan.
+36,36,49,Head - Supply Chain & SCM,12,65.4,Active,Aligned with annual career development plan.
+37,37,59,Engineer - AI & Digital Initiatives,18,32.7,Active,Aligned with annual career development plan.
+38,38,12,Specialist - Electrical & Electronics,12,8.4,Active,Aligned with annual career development plan.
+39,39,63,Head - AI & Digital Initiatives,24,1.2,Active,Aligned with annual career development plan.
+40,40,14,Head - Electrical & Electronics,18,36.7,Active,Aligned with annual career development plan.
+41,41,28,Head - Blast Furnace Operations,24,68.0,Active,Aligned with annual career development plan.
+42,42,6,EAF Mechanical Specialist,24,0.8,Active,Aligned with annual career development plan.
+43,43,19,Specialist - Automation & Control,12,38.7,Active,Aligned with annual career development plan.
+44,44,14,Head - Electrical & Electronics,24,62.0,Active,Aligned with annual career development plan.
+45,45,71,HR Business Partner,18,33.3,Active,Aligned with annual career development plan.
+46,46,63,Head - AI & Digital Initiatives,18,59.6,Active,Aligned with annual career development plan.
+47,47,48,Manager - Supply Chain & SCM,12,6.2,Active,Aligned with annual career development plan.
+48,48,1,Technician - Mechanical,12,22.2,Active,Aligned with annual career development plan.
+49,49,13,Manager - Electrical & Electronics,18,67.0,Active,Aligned with annual career development plan.
+50,50,53,Senior Engineer - Information Technology,24,2.0,Active,Aligned with annual career development plan.
+51,51,21,Head - Automation & Control,12,37.8,Active,Aligned with annual career development plan.
+52,52,47,Specialist - Supply Chain & SCM,12,48.5,Active,Aligned with annual career development plan.
+53,53,7,Engineering Manager,12,14.5,Active,Aligned with annual career development plan.
+54,54,59,Engineer - AI & Digital Initiatives,12,33.3,Active,Aligned with annual career development plan.
+55,55,14,Head - Electrical & Electronics,18,46.2,Active,Aligned with annual career development plan.
+56,56,48,Manager - Supply Chain & SCM,24,29.7,Active,Aligned with annual career development plan.
+57,57,28,Head - Blast Furnace Operations,24,39.6,Active,Aligned with annual career development plan.
+58,58,32,Senior Engineer - Rolling Mill Operations,18,50.4,Active,Aligned with annual career development plan.
+59,59,35,Head - Rolling Mill Operations,24,24.8,Active,Aligned with annual career development plan.
+60,60,7,Engineering Manager,24,13.2,Active,Aligned with annual career development plan.
+61,61,61,Specialist - AI & Digital Initiatives,18,64.6,Active,Aligned with annual career development plan.
+62,62,7,Engineering Manager,12,43.4,Active,Aligned with annual career development plan.
+63,63,40,Specialist - Quality Assurance & Metallurgy,12,44.5,Active,Aligned with annual career development plan.
+64,64,27,Manager - Blast Furnace Operations,24,64.6,Active,Aligned with annual career development plan.
+65,65,21,Head - Automation & Control,12,37.5,Active,Aligned with annual career development plan.
+66,66,53,Senior Engineer - Information Technology,24,53.6,Active,Aligned with annual career development plan.
+67,67,19,Specialist - Automation & Control,18,13.9,Active,Aligned with annual career development plan.
+68,68,6,EAF Mechanical Specialist,24,41.4,Active,Aligned with annual career development plan.
+69,69,35,Head - Rolling Mill Operations,24,44.2,Active,Aligned with annual career development plan.
+70,70,71,HR Business Partner,24,11.4,Active,Aligned with annual career development plan.
+71,71,41,Manager - Quality Assurance & Metallurgy,12,49.4,Active,Aligned with annual career development plan.
+72,72,42,Head - Quality Assurance & Metallurgy,18,7.5,Active,Aligned with annual career development plan.
+73,73,56,Head - Information Technology,18,42.4,Active,Aligned with annual career development plan.
+74,74,28,Head - Blast Furnace Operations,18,33.3,Active,Aligned with annual career development plan.
+75,75,61,Specialist - AI & Digital Initiatives,18,49.3,Active,Aligned with annual career development plan.
+76,76,47,Specialist - Supply Chain & SCM,24,24.5,Active,Aligned with annual career development plan.
+77,77,7,Engineering Manager,18,43.3,Active,Aligned with annual career development plan.
+78,78,70,Head - Human Resources & L&D,18,46.5,Active,Aligned with annual career development plan.
+79,79,6,EAF Mechanical Specialist,12,3.5,Active,Aligned with annual career development plan.
+80,80,42,Head - Quality Assurance & Metallurgy,24,51.3,Active,Aligned with annual career development plan.
+81,81,54,Specialist - Information Technology,24,49.0,Active,Aligned with annual career development plan.
+82,82,5,Mechanical Specialist,12,63.7,Active,Aligned with annual career development plan.
+83,83,13,Manager - Electrical & Electronics,12,67.5,Active,Aligned with annual career development plan.
+84,84,63,Head - AI & Digital Initiatives,18,40.9,Active,Aligned with annual career development plan.
+85,85,46,Senior Engineer - Supply Chain & SCM,18,11.1,Active,Aligned with annual career development plan.
+86,86,30,Senior Technician - Rolling Mill Operations,18,13.9,Active,Aligned with annual career development plan.
+87,87,42,Head - Quality Assurance & Metallurgy,18,65.1,Active,Aligned with annual career development plan.
+88,88,35,Head - Rolling Mill Operations,12,8.0,Active,Aligned with annual career development plan.
+89,89,60,Senior Engineer - AI & Digital Initiatives,12,54.0,Active,Aligned with annual career development plan.
+90,90,34,Manager - Rolling Mill Operations,18,9.0,Active,Aligned with annual career development plan.
+91,91,11,Senior Engineer - Electrical & Electronics,12,16.5,Active,Aligned with annual career development plan.
+92,92,14,Head - Electrical & Electronics,18,61.9,Active,Aligned with annual career development plan.
+93,93,68,Specialist - Human Resources & L&D,18,43.3,Active,Aligned with annual career development plan.
+94,94,63,Head - AI & Digital Initiatives,12,36.2,Active,Aligned with annual career development plan.
+95,95,63,Head - AI & Digital Initiatives,12,6.0,Active,Aligned with annual career development plan.
+96,96,63,Head - AI & Digital Initiatives,12,26.0,Active,Aligned with annual career development plan.
+97,97,28,Head - Blast Furnace Operations,12,1.3,Active,Aligned with annual career development plan.
+98,98,49,Head - Supply Chain & SCM,12,27.9,Active,Aligned with annual career development plan.
+99,99,32,Senior Engineer - Rolling Mill Operations,24,37.8,Active,Aligned with annual career development plan.
+100,100,51,Senior Technician - Information Technology,18,63.4,Active,Aligned with annual career development plan.
+101,101,66,Engineer - Human Resources & L&D,18,54.3,Active,Aligned with annual career development plan.
+102,102,55,Manager - Information Technology,24,50.9,Active,Aligned with annual career development plan.
+103,103,58,Senior Technician - AI & Digital Initiatives,12,57.0,Active,Aligned with annual career development plan.
+104,104,55,Manager - Information Technology,18,14.1,Active,Aligned with annual career development plan.
+105,105,11,Senior Engineer - Electrical & Electronics,12,32.2,Active,Aligned with annual career development plan.
+106,106,7,Engineering Manager,18,33.2,Active,Aligned with annual career development plan.
+107,107,58,Senior Technician - AI & Digital Initiatives,12,44.0,Active,Aligned with annual career development plan.
+108,108,63,Head - AI & Digital Initiatives,24,34.5,Active,Aligned with annual career development plan.
+109,109,5,Mechanical Specialist,18,16.6,Active,Aligned with annual career development plan.
+110,110,35,Head - Rolling Mill Operations,12,0.2,Active,Aligned with annual career development plan.
+111,111,62,Manager - AI & Digital Initiatives,18,56.7,Active,Aligned with annual career development plan.
+112,112,42,Head - Quality Assurance & Metallurgy,12,62.2,Active,Aligned with annual career development plan.
+113,113,35,Head - Rolling Mill Operations,24,37.1,Active,Aligned with annual career development plan.
+114,114,27,Manager - Blast Furnace Operations,24,53.9,Active,Aligned with annual career development plan.
+115,115,62,Manager - AI & Digital Initiatives,12,42.8,Active,Aligned with annual career development plan.
+116,116,48,Manager - Supply Chain & SCM,24,32.6,Active,Aligned with annual career development plan.
+117,117,1,Technician - Mechanical,18,47.0,Active,Aligned with annual career development plan.
+118,118,65,Senior Technician - Human Resources & L&D,24,64.3,Active,Aligned with annual career development plan.
+119,119,7,Engineering Manager,24,34.1,Active,Aligned with annual career development plan.
+120,120,30,Senior Technician - Rolling Mill Operations,24,31.6,Active,Aligned with annual career development plan.
+121,121,14,Head - Electrical & Electronics,18,38.0,Active,Aligned with annual career development plan.
+122,122,63,Head - AI & Digital Initiatives,24,38.4,Active,Aligned with annual career development plan.
+123,123,14,Head - Electrical & Electronics,18,60.4,Active,Aligned with annual career development plan.
+124,124,4,Senior Mechanical Engineer,18,7.5,Active,Aligned with annual career development plan.
+125,125,33,Specialist - Rolling Mill Operations,18,46.2,Active,Aligned with annual career development plan.
+126,126,21,Head - Automation & Control,24,42.8,Active,Aligned with annual career development plan.
+127,127,7,Engineering Manager,12,14.6,Active,Aligned with annual career development plan.
+128,128,42,Head - Quality Assurance & Metallurgy,24,28.0,Active,Aligned with annual career development plan.
+129,129,55,Manager - Information Technology,12,28.8,Active,Aligned with annual career development plan.
+130,130,26,Specialist - Blast Furnace Operations,12,61.4,Active,Aligned with annual career development plan.
+131,131,20,Manager - Automation & Control,18,50.5,Active,Aligned with annual career development plan.
+132,132,14,Head - Electrical & Electronics,12,66.4,Active,Aligned with annual career development plan.
+133,133,55,Manager - Information Technology,24,51.4,Active,Aligned with annual career development plan.
+134,134,7,Engineering Manager,24,45.9,Active,Aligned with annual career development plan.
+135,135,13,Manager - Electrical & Electronics,18,8.7,Active,Aligned with annual career development plan.
+136,136,63,Head - AI & Digital Initiatives,24,7.2,Active,Aligned with annual career development plan.
+137,137,70,Head - Human Resources & L&D,18,43.0,Active,Aligned with annual career development plan.
+138,138,47,Specialist - Supply Chain & SCM,12,53.2,Active,Aligned with annual career development plan.
+139,139,6,EAF Mechanical Specialist,12,4.6,Active,Aligned with annual career development plan.
+140,140,62,Manager - AI & Digital Initiatives,12,29.1,Active,Aligned with annual career development plan.
+141,141,21,Head - Automation & Control,18,39.0,Active,Aligned with annual career development plan.
+142,142,55,Manager - Information Technology,12,15.7,Active,Aligned with annual career development plan.
+143,143,21,Head - Automation & Control,24,2.2,Active,Aligned with annual career development plan.
+144,144,17,Engineer - Automation & Control,18,30.4,Active,Aligned with annual career development plan.
+145,145,65,Senior Technician - Human Resources & L&D,24,17.9,Active,Aligned with annual career development plan.
+146,146,48,Manager - Supply Chain & SCM,12,11.7,Active,Aligned with annual career development plan.
+147,147,46,Senior Engineer - Supply Chain & SCM,18,4.3,Active,Aligned with annual career development plan.
+148,148,62,Manager - AI & Digital Initiatives,24,25.0,Active,Aligned with annual career development plan.
+149,149,71,HR Business Partner,12,65.0,Active,Aligned with annual career development plan.
+150,150,5,Mechanical Specialist,12,50.9,Active,Aligned with annual career development plan.
+151,151,27,Manager - Blast Furnace Operations,12,51.2,Active,Aligned with annual career development plan.
+152,152,34,Manager - Rolling Mill Operations,24,24.7,Active,Aligned with annual career development plan.
+153,153,3,Mechanical Engineer,18,1.6,Active,Aligned with annual career development plan.
+154,154,28,Head - Blast Furnace Operations,12,50.5,Active,Aligned with annual career development plan.
+155,155,70,Head - Human Resources & L&D,12,34.3,Active,Aligned with annual career development plan.
+156,156,11,Senior Engineer - Electrical & Electronics,24,19.4,Active,Aligned with annual career development plan.
+157,157,38,Engineer - Quality Assurance & Metallurgy,24,66.3,Active,Aligned with annual career development plan.
+158,158,20,Manager - Automation & Control,24,36.3,Active,Aligned with annual career development plan.
+159,159,25,Senior Engineer - Blast Furnace Operations,18,60.1,Active,Aligned with annual career development plan.
+160,160,56,Head - Information Technology,24,52.3,Active,Aligned with annual career development plan.
+161,161,42,Head - Quality Assurance & Metallurgy,24,10.1,Active,Aligned with annual career development plan.
+162,162,25,Senior Engineer - Blast Furnace Operations,12,24.2,Active,Aligned with annual career development plan.
+163,163,40,Specialist - Quality Assurance & Metallurgy,12,41.1,Active,Aligned with annual career development plan.
+164,164,14,Head - Electrical & Electronics,12,47.5,Active,Aligned with annual career development plan.
+165,165,61,Specialist - AI & Digital Initiatives,18,10.7,Active,Aligned with annual career development plan.
+166,166,63,Head - AI & Digital Initiatives,24,3.5,Active,Aligned with annual career development plan.
+167,167,38,Engineer - Quality Assurance & Metallurgy,24,24.7,Active,Aligned with annual career development plan.
+168,168,2,Senior Technician - Mechanical,18,26.1,Active,Aligned with annual career development plan.
+169,169,21,Head - Automation & Control,12,33.7,Active,Aligned with annual career development plan.
+170,170,5,Mechanical Specialist,24,25.1,Active,Aligned with annual career development plan.
+171,171,26,Specialist - Blast Furnace Operations,24,61.9,Active,Aligned with annual career development plan.
+172,172,26,Specialist - Blast Furnace Operations,24,15.9,Active,Aligned with annual career development plan.
+173,173,55,Manager - Information Technology,18,29.0,Active,Aligned with annual career development plan.
+174,174,42,Head - Quality Assurance & Metallurgy,18,4.4,Active,Aligned with annual career development plan.
+175,175,56,Head - Information Technology,18,12.7,Active,Aligned with annual career development plan.
+176,176,13,Manager - Electrical & Electronics,18,58.7,Active,Aligned with annual career development plan.
+177,177,27,Manager - Blast Furnace Operations,18,31.0,Active,Aligned with annual career development plan.
+178,178,61,Specialist - AI & Digital Initiatives,18,63.0,Active,Aligned with annual career development plan.
+179,179,14,Head - Electrical & Electronics,24,11.7,Active,Aligned with annual career development plan.
+180,180,24,Engineer - Blast Furnace Operations,18,57.8,Active,Aligned with annual career development plan.
+181,181,56,Head - Information Technology,18,51.8,Active,Aligned with annual career development plan.
+182,182,13,Manager - Electrical & Electronics,18,34.3,Active,Aligned with annual career development plan.
+183,183,20,Manager - Automation & Control,12,49.6,Active,Aligned with annual career development plan.
+184,184,4,Senior Mechanical Engineer,12,3.5,Active,Aligned with annual career development plan.
+185,185,19,Specialist - Automation & Control,18,67.8,Active,Aligned with annual career development plan.
+186,186,14,Head - Electrical & Electronics,24,42.0,Active,Aligned with annual career development plan.
+187,187,49,Head - Supply Chain & SCM,24,39.1,Active,Aligned with annual career development plan.
+188,188,33,Specialist - Rolling Mill Operations,24,35.2,Active,Aligned with annual career development plan.
+189,189,35,Head - Rolling Mill Operations,18,18.0,Active,Aligned with annual career development plan.
+190,190,14,Head - Electrical & Electronics,18,59.3,Active,Aligned with annual career development plan.
+191,191,63,Head - AI & Digital Initiatives,12,63.6,Active,Aligned with annual career development plan.
+192,192,3,Mechanical Engineer,12,60.7,Active,Aligned with annual career development plan.
+193,193,61,Specialist - AI & Digital Initiatives,24,20.5,Active,Aligned with annual career development plan.
+194,194,42,Head - Quality Assurance & Metallurgy,24,3.8,Active,Aligned with annual career development plan.
+195,195,34,Manager - Rolling Mill Operations,12,8.8,Active,Aligned with annual career development plan.
+196,196,49,Head - Supply Chain & SCM,24,19.4,Active,Aligned with annual career development plan.
+197,197,71,HR Business Partner,12,46.1,Active,Aligned with annual career development plan.
+198,198,26,Specialist - Blast Furnace Operations,12,45.3,Active,Aligned with annual career development plan.
+199,199,43,Technician - Supply Chain & SCM,12,10.3,Active,Aligned with annual career development plan.
+200,200,11,Senior Engineer - Electrical & Electronics,12,5.0,Active,Aligned with annual career development plan.
+201,201,41,Manager - Quality Assurance & Metallurgy,18,53.1,Active,Aligned with annual career development plan.
+202,202,33,Specialist - Rolling Mill Operations,12,18.8,Active,Aligned with annual career development plan.
+203,203,39,Senior Engineer - Quality Assurance & Metallurgy,24,34.3,Active,Aligned with annual career development plan.
+204,204,14,Head - Electrical & Electronics,24,65.9,Active,Aligned with annual career development plan.
+205,205,56,Head - Information Technology,24,24.9,Active,Aligned with annual career development plan.
+206,206,61,Specialist - AI & Digital Initiatives,12,62.4,Active,Aligned with annual career development plan.
+207,207,55,Manager - Information Technology,18,0.5,Active,Aligned with annual career development plan.
+208,208,60,Senior Engineer - AI & Digital Initiatives,18,17.4,Active,Aligned with annual career development plan.
+209,209,69,Manager - Human Resources & L&D,18,4.2,Active,Aligned with annual career development plan.
+210,210,33,Specialist - Rolling Mill Operations,24,47.1,Active,Aligned with annual career development plan.
+211,211,45,Engineer - Supply Chain & SCM,24,23.2,Active,Aligned with annual career development plan.
+212,212,24,Engineer - Blast Furnace Operations,18,58.7,Active,Aligned with annual career development plan.
+213,213,7,Engineering Manager,12,0.6,Active,Aligned with annual career development plan.
+214,214,63,Head - AI & Digital Initiatives,18,12.1,Active,Aligned with annual career development plan.
+215,215,56,Head - Information Technology,18,9.8,Active,Aligned with annual career development plan.
+216,216,18,Senior Engineer - Automation & Control,12,62.7,Active,Aligned with annual career development plan.
+217,217,28,Head - Blast Furnace Operations,24,27.0,Active,Aligned with annual career development plan.
+218,218,14,Head - Electrical & Electronics,12,33.4,Active,Aligned with annual career development plan.
+219,219,63,Head - AI & Digital Initiatives,24,51.2,Active,Aligned with annual career development plan.
+220,220,44,Senior Technician - Supply Chain & SCM,24,20.9,Active,Aligned with annual career development plan.
+221,221,10,Engineer - Electrical & Electronics,24,3.6,Active,Aligned with annual career development plan.
+222,222,20,Manager - Automation & Control,24,48.5,Active,Aligned with annual career development plan.
+223,223,49,Head - Supply Chain & SCM,12,6.2,Active,Aligned with annual career development plan.
+224,224,35,Head - Rolling Mill Operations,12,35.8,Active,Aligned with annual career development plan.
+225,225,21,Head - Automation & Control,12,10.2,Active,Aligned with annual career development plan.
+226,226,42,Head - Quality Assurance & Metallurgy,18,14.3,Active,Aligned with annual career development plan.
+227,227,6,EAF Mechanical Specialist,24,34.9,Active,Aligned with annual career development plan.
+228,228,60,Senior Engineer - AI & Digital Initiatives,18,68.2,Active,Aligned with annual career development plan.
+229,229,13,Manager - Electrical & Electronics,12,33.3,Active,Aligned with annual career development plan.
+230,230,63,Head - AI & Digital Initiatives,12,4.0,Active,Aligned with annual career development plan.
+231,231,70,Head - Human Resources & L&D,24,42.0,Active,Aligned with annual career development plan.
+232,232,63,Head - AI & Digital Initiatives,18,50.4,Active,Aligned with annual career development plan.
+233,233,14,Head - Electrical & Electronics,18,4.3,Active,Aligned with annual career development plan.
+234,234,46,Senior Engineer - Supply Chain & SCM,24,25.2,Active,Aligned with annual career development plan.
+235,235,18,Senior Engineer - Automation & Control,24,60.6,Active,Aligned with annual career development plan.
+236,236,70,Head - Human Resources & L&D,24,51.3,Active,Aligned with annual career development plan.
+237,237,52,Engineer - Information Technology,18,27.9,Active,Aligned with annual career development plan.
+238,238,12,Specialist - Electrical & Electronics,18,66.6,Active,Aligned with annual career development plan.
+239,239,13,Manager - Electrical & Electronics,12,69.8,Active,Aligned with annual career development plan.
+240,240,27,Manager - Blast Furnace Operations,24,40.8,Active,Aligned with annual career development plan.
+241,241,17,Engineer - Automation & Control,24,57.8,Active,Aligned with annual career development plan.
+242,242,4,Senior Mechanical Engineer,18,23.2,Active,Aligned with annual career development plan.
+243,243,42,Head - Quality Assurance & Metallurgy,24,12.9,Active,Aligned with annual career development plan.
+244,244,41,Manager - Quality Assurance & Metallurgy,12,32.4,Active,Aligned with annual career development plan.
+245,245,5,Mechanical Specialist,24,31.6,Active,Aligned with annual career development plan.
+246,246,13,Manager - Electrical & Electronics,24,40.3,Active,Aligned with annual career development plan.
+247,247,67,Senior Engineer - Human Resources & L&D,12,56.3,Active,Aligned with annual career development plan.
+248,248,63,Head - AI & Digital Initiatives,12,53.2,Active,Aligned with annual career development plan.
+249,249,56,Head - Information Technology,24,64.5,Active,Aligned with annual career development plan.
+250,250,2,Senior Technician - Mechanical,18,27.1,Active,Aligned with annual career development plan.
+251,251,32,Senior Engineer - Rolling Mill Operations,24,17.0,Active,Aligned with annual career development plan.
+252,252,44,Senior Technician - Supply Chain & SCM,24,54.3,Active,Aligned with annual career development plan.
+253,253,54,Specialist - Information Technology,24,50.0,Active,Aligned with annual career development plan.
+254,254,56,Head - Information Technology,24,0.7,Active,Aligned with annual career development plan.
+255,255,19,Specialist - Automation & Control,12,14.8,Active,Aligned with annual career development plan.
+256,256,12,Specialist - Electrical & Electronics,18,10.4,Active,Aligned with annual career development plan.
+257,257,26,Specialist - Blast Furnace Operations,18,3.1,Active,Aligned with annual career development plan.
+258,258,7,Engineering Manager,18,21.5,Active,Aligned with annual career development plan.
+259,259,62,Manager - AI & Digital Initiatives,12,62.8,Active,Aligned with annual career development plan.
+260,260,11,Senior Engineer - Electrical & Electronics,12,46.3,Active,Aligned with annual career development plan.
+261,261,47,Specialist - Supply Chain & SCM,12,5.9,Active,Aligned with annual career development plan.
+262,262,52,Engineer - Information Technology,18,15.3,Active,Aligned with annual career development plan.
+263,263,39,Senior Engineer - Quality Assurance & Metallurgy,18,38.6,Active,Aligned with annual career development plan.
+264,264,26,Specialist - Blast Furnace Operations,12,34.2,Active,Aligned with annual career development plan.
+265,265,61,Specialist - AI & Digital Initiatives,18,21.0,Active,Aligned with annual career development plan.
+266,266,70,Head - Human Resources & L&D,12,40.3,Active,Aligned with annual career development plan.
+267,267,17,Engineer - Automation & Control,24,37.2,Active,Aligned with annual career development plan.
+268,268,41,Manager - Quality Assurance & Metallurgy,24,43.0,Active,Aligned with annual career development plan.
+269,269,34,Manager - Rolling Mill Operations,12,57.0,Active,Aligned with annual career development plan.
+270,270,14,Head - Electrical & Electronics,24,59.7,Active,Aligned with annual career development plan.
+271,271,26,Specialist - Blast Furnace Operations,18,58.1,Active,Aligned with annual career development plan.
+272,272,9,Senior Technician - Electrical & Electronics,12,47.6,Active,Aligned with annual career development plan.
+273,273,61,Specialist - AI & Digital Initiatives,12,60.9,Active,Aligned with annual career development plan.
+274,274,30,Senior Technician - Rolling Mill Operations,18,16.0,Active,Aligned with annual career development plan.
+275,275,8,Technician - Electrical & Electronics,18,15.5,Active,Aligned with annual career development plan.
+276,276,42,Head - Quality Assurance & Metallurgy,24,68.0,Active,Aligned with annual career development plan.
+277,277,3,Mechanical Engineer,18,18.5,Active,Aligned with annual career development plan.
+278,278,42,Head - Quality Assurance & Metallurgy,24,32.9,Active,Aligned with annual career development plan.
+279,279,39,Senior Engineer - Quality Assurance & Metallurgy,24,56.5,Active,Aligned with annual career development plan.
+280,280,59,Engineer - AI & Digital Initiatives,12,10.4,Active,Aligned with annual career development plan.
+281,281,14,Head - Electrical & Electronics,24,36.3,Active,Aligned with annual career development plan.
+282,282,67,Senior Engineer - Human Resources & L&D,24,69.4,Active,Aligned with annual career development plan.
+283,283,41,Manager - Quality Assurance & Metallurgy,12,18.9,Active,Aligned with annual career development plan.
+284,284,13,Manager - Electrical & Electronics,12,2.1,Active,Aligned with annual career development plan.
+285,285,67,Senior Engineer - Human Resources & L&D,12,16.2,Active,Aligned with annual career development plan.
+286,286,61,Specialist - AI & Digital Initiatives,12,18.3,Active,Aligned with annual career development plan.
+287,287,35,Head - Rolling Mill Operations,12,52.0,Active,Aligned with annual career development plan.
+288,288,49,Head - Supply Chain & SCM,18,11.7,Active,Aligned with annual career development plan.
+289,289,59,Engineer - AI & Digital Initiatives,18,20.3,Active,Aligned with annual career development plan.
+290,290,18,Senior Engineer - Automation & Control,18,55.1,Active,Aligned with annual career development plan.
+291,291,28,Head - Blast Furnace Operations,18,0.3,Active,Aligned with annual career development plan.
+292,292,56,Head - Information Technology,18,21.8,Active,Aligned with annual career development plan.
+293,293,31,Engineer - Rolling Mill Operations,24,25.3,Active,Aligned with annual career development plan.
+294,294,14,Head - Electrical & Electronics,24,59.2,Active,Aligned with annual career development plan.
+295,295,35,Head - Rolling Mill Operations,24,62.1,Active,Aligned with annual career development plan.
+296,296,41,Manager - Quality Assurance & Metallurgy,18,51.1,Active,Aligned with annual career development plan.
+297,297,56,Head - Information Technology,12,47.3,Active,Aligned with annual career development plan.
+298,298,49,Head - Supply Chain & SCM,12,26.1,Active,Aligned with annual career development plan.
+299,299,20,Manager - Automation & Control,12,47.2,Active,Aligned with annual career development plan.
+300,300,5,Mechanical Specialist,18,56.5,Active,Aligned with annual career development plan.
+301,301,42,Head - Quality Assurance & Metallurgy,24,33.0,Active,Aligned with annual career development plan.
+302,302,62,Manager - AI & Digital Initiatives,18,64.6,Active,Aligned with annual career development plan.
+303,303,42,Head - Quality Assurance & Metallurgy,24,31.8,Active,Aligned with annual career development plan.
+304,304,62,Manager - AI & Digital Initiatives,18,0.3,Active,Aligned with annual career development plan.
+305,305,35,Head - Rolling Mill Operations,18,53.4,Active,Aligned with annual career development plan.
+306,306,69,Manager - Human Resources & L&D,12,38.9,Active,Aligned with annual career development plan.
+307,307,4,Senior Mechanical Engineer,24,42.5,Active,Aligned with annual career development plan.
+308,308,17,Engineer - Automation & Control,24,66.9,Active,Aligned with annual career development plan.
+309,309,54,Specialist - Information Technology,24,63.8,Active,Aligned with annual career development plan.
+310,310,70,Head - Human Resources & L&D,12,36.9,Active,Aligned with annual career development plan.
+311,311,48,Manager - Supply Chain & SCM,18,37.3,Active,Aligned with annual career development plan.
+312,312,26,Specialist - Blast Furnace Operations,18,21.9,Active,Aligned with annual career development plan.
+313,313,23,Senior Technician - Blast Furnace Operations,12,67.6,Active,Aligned with annual career development plan.
+314,314,7,Engineering Manager,24,16.1,Active,Aligned with annual career development plan.
+315,315,47,Specialist - Supply Chain & SCM,24,38.1,Active,Aligned with annual career development plan.
+316,316,48,Manager - Supply Chain & SCM,12,12.5,Active,Aligned with annual career development plan.
+317,317,6,EAF Mechanical Specialist,24,44.6,Active,Aligned with annual career development plan.
+318,318,13,Manager - Electrical & Electronics,18,65.2,Active,Aligned with annual career development plan.
+319,319,42,Head - Quality Assurance & Metallurgy,18,38.6,Active,Aligned with annual career development plan.
+320,320,14,Head - Electrical & Electronics,12,52.9,Active,Aligned with annual career development plan.
+321,321,27,Manager - Blast Furnace Operations,24,65.0,Active,Aligned with annual career development plan.
+322,322,47,Specialist - Supply Chain & SCM,24,62.9,Active,Aligned with annual career development plan.
+323,323,31,Engineer - Rolling Mill Operations,12,40.5,Active,Aligned with annual career development plan.
+324,324,4,Senior Mechanical Engineer,18,32.3,Active,Aligned with annual career development plan.
+325,325,70,Head - Human Resources & L&D,12,15.0,Active,Aligned with annual career development plan.
+326,326,63,Head - AI & Digital Initiatives,24,38.2,Active,Aligned with annual career development plan.
+327,327,71,HR Business Partner,18,57.3,Active,Aligned with annual career development plan.
+328,328,53,Senior Engineer - Information Technology,24,65.2,Active,Aligned with annual career development plan.
+329,329,29,Technician - Rolling Mill Operations,12,13.5,Active,Aligned with annual career development plan.
+330,330,34,Manager - Rolling Mill Operations,12,53.0,Active,Aligned with annual career development plan.
+331,331,27,Manager - Blast Furnace Operations,18,36.2,Active,Aligned with annual career development plan.
+332,332,20,Manager - Automation & Control,18,64.5,Active,Aligned with annual career development plan.
+333,333,42,Head - Quality Assurance & Metallurgy,18,13.3,Active,Aligned with annual career development plan.
+334,334,33,Specialist - Rolling Mill Operations,12,4.6,Active,Aligned with annual career development plan.
+335,335,30,Senior Technician - Rolling Mill Operations,18,15.3,Active,Aligned with annual career development plan.
+336,336,27,Manager - Blast Furnace Operations,24,57.2,Active,Aligned with annual career development plan.
+337,337,13,Manager - Electrical & Electronics,12,11.1,Active,Aligned with annual career development plan.
+338,338,69,Manager - Human Resources & L&D,18,31.2,Active,Aligned with annual career development plan.
+339,339,34,Manager - Rolling Mill Operations,24,16.3,Active,Aligned with annual career development plan.
+340,340,14,Head - Electrical & Electronics,18,36.8,Active,Aligned with annual career development plan.
+341,341,48,Manager - Supply Chain & SCM,12,45.1,Active,Aligned with annual career development plan.
+342,342,10,Engineer - Electrical & Electronics,18,56.9,Active,Aligned with annual career development plan.
+343,343,32,Senior Engineer - Rolling Mill Operations,12,55.2,Active,Aligned with annual career development plan.
+344,344,27,Manager - Blast Furnace Operations,24,17.1,Active,Aligned with annual career development plan.
+345,345,49,Head - Supply Chain & SCM,18,49.4,Active,Aligned with annual career development plan.
+346,346,20,Manager - Automation & Control,12,4.6,Active,Aligned with annual career development plan.
+347,347,27,Manager - Blast Furnace Operations,12,2.2,Active,Aligned with annual career development plan.
+348,348,60,Senior Engineer - AI & Digital Initiatives,24,63.3,Active,Aligned with annual career development plan.
+349,349,4,Senior Mechanical Engineer,18,18.2,Active,Aligned with annual career development plan.
+350,350,45,Engineer - Supply Chain & SCM,24,0.2,Active,Aligned with annual career development plan.
+351,351,47,Specialist - Supply Chain & SCM,18,50.8,Active,Aligned with annual career development plan.
+352,352,4,Senior Mechanical Engineer,24,53.8,Active,Aligned with annual career development plan.
+353,353,55,Manager - Information Technology,18,47.2,Active,Aligned with annual career development plan.
+354,354,46,Senior Engineer - Supply Chain & SCM,24,67.6,Active,Aligned with annual career development plan.
+355,355,38,Engineer - Quality Assurance & Metallurgy,24,16.3,Active,Aligned with annual career development plan.
+356,356,34,Manager - Rolling Mill Operations,12,62.6,Active,Aligned with annual career development plan.
+357,357,35,Head - Rolling Mill Operations,24,6.8,Active,Aligned with annual career development plan.
+358,358,39,Senior Engineer - Quality Assurance & Metallurgy,18,26.1,Active,Aligned with annual career development plan.
+359,359,33,Specialist - Rolling Mill Operations,24,67.1,Active,Aligned with annual career development plan.
+360,360,46,Senior Engineer - Supply Chain & SCM,24,11.4,Active,Aligned with annual career development plan.
+361,361,4,Senior Mechanical Engineer,24,15.5,Active,Aligned with annual career development plan.
+362,362,7,Engineering Manager,12,5.5,Active,Aligned with annual career development plan.
+363,363,21,Head - Automation & Control,12,57.1,Active,Aligned with annual career development plan.
+364,364,61,Specialist - AI & Digital Initiatives,24,26.6,Active,Aligned with annual career development plan.
+365,365,40,Specialist - Quality Assurance & Metallurgy,24,39.3,Active,Aligned with annual career development plan.
+366,366,41,Manager - Quality Assurance & Metallurgy,12,10.5,Active,Aligned with annual career development plan.
+367,367,49,Head - Supply Chain & SCM,24,39.1,Active,Aligned with annual career development plan.
+368,368,49,Head - Supply Chain & SCM,18,8.4,Active,Aligned with annual career development plan.
+369,369,49,Head - Supply Chain & SCM,12,25.0,Active,Aligned with annual career development plan.
+370,370,21,Head - Automation & Control,24,49.3,Active,Aligned with annual career development plan.
+371,371,33,Specialist - Rolling Mill Operations,18,1.7,Active,Aligned with annual career development plan.
+372,372,28,Head - Blast Furnace Operations,18,28.9,Active,Aligned with annual career development plan.
+373,373,4,Senior Mechanical Engineer,24,11.3,Active,Aligned with annual career development plan.
+374,374,70,Head - Human Resources & L&D,18,4.6,Active,Aligned with annual career development plan.
+375,375,28,Head - Blast Furnace Operations,24,7.0,Active,Aligned with annual career development plan.
+376,376,47,Specialist - Supply Chain & SCM,24,36.2,Active,Aligned with annual career development plan.
+377,377,63,Head - AI & Digital Initiatives,24,67.6,Active,Aligned with annual career development plan.
+378,378,42,Head - Quality Assurance & Metallurgy,12,8.4,Active,Aligned with annual career development plan.
+379,379,60,Senior Engineer - AI & Digital Initiatives,12,28.4,Active,Aligned with annual career development plan.
+380,380,56,Head - Information Technology,18,37.1,Active,Aligned with annual career development plan.
+381,381,4,Senior Mechanical Engineer,24,22.0,Active,Aligned with annual career development plan.
+382,382,12,Specialist - Electrical & Electronics,12,14.6,Active,Aligned with annual career development plan.
+383,383,46,Senior Engineer - Supply Chain & SCM,12,7.8,Active,Aligned with annual career development plan.
+384,384,56,Head - Information Technology,24,43.0,Active,Aligned with annual career development plan.
+385,385,18,Senior Engineer - Automation & Control,24,32.0,Active,Aligned with annual career development plan.
+386,386,28,Head - Blast Furnace Operations,12,18.9,Active,Aligned with annual career development plan.
+387,387,5,Mechanical Specialist,12,3.0,Active,Aligned with annual career development plan.
+388,388,63,Head - AI & Digital Initiatives,24,17.8,Active,Aligned with annual career development plan.
+389,389,17,Engineer - Automation & Control,24,26.3,Active,Aligned with annual career development plan.
+390,390,20,Manager - Automation & Control,12,42.7,Active,Aligned with annual career development plan.
+391,391,6,EAF Mechanical Specialist,12,46.7,Active,Aligned with annual career development plan.
+392,392,54,Specialist - Information Technology,12,26.5,Active,Aligned with annual career development plan.
+393,393,55,Manager - Information Technology,18,23.7,Active,Aligned with annual career development plan.
+394,394,28,Head - Blast Furnace Operations,12,59.2,Active,Aligned with annual career development plan.
+395,395,24,Engineer - Blast Furnace Operations,12,34.0,Active,Aligned with annual career development plan.
+396,396,56,Head - Information Technology,12,33.1,Active,Aligned with annual career development plan.
+397,397,56,Head - Information Technology,18,66.5,Active,Aligned with annual career development plan.
+398,398,68,Specialist - Human Resources & L&D,12,55.2,Active,Aligned with annual career development plan.
+399,399,13,Manager - Electrical & Electronics,18,41.3,Active,Aligned with annual career development plan.
+400,400,48,Manager - Supply Chain & SCM,12,46.4,Active,Aligned with annual career development plan.
+401,401,19,Specialist - Automation & Control,18,43.1,Active,Aligned with annual career development plan.
+402,402,7,Engineering Manager,18,22.2,Active,Aligned with annual career development plan.
+403,403,19,Specialist - Automation & Control,18,27.2,Active,Aligned with annual career development plan.
+404,404,33,Specialist - Rolling Mill Operations,18,68.5,Active,Aligned with annual career development plan.
+405,405,62,Manager - AI & Digital Initiatives,12,18.2,Active,Aligned with annual career development plan.
+406,406,11,Senior Engineer - Electrical & Electronics,24,13.4,Active,Aligned with annual career development plan.
+407,407,31,Engineer - Rolling Mill Operations,12,1.6,Active,Aligned with annual career development plan.
+408,408,21,Head - Automation & Control,12,41.9,Active,Aligned with annual career development plan.
+409,409,42,Head - Quality Assurance & Metallurgy,18,60.4,Active,Aligned with annual career development plan.
+410,410,26,Specialist - Blast Furnace Operations,18,51.3,Active,Aligned with annual career development plan.
+411,411,42,Head - Quality Assurance & Metallurgy,12,42.4,Active,Aligned with annual career development plan.
+412,412,42,Head - Quality Assurance & Metallurgy,12,18.9,Active,Aligned with annual career development plan.
+413,413,14,Head - Electrical & Electronics,24,7.7,Active,Aligned with annual career development plan.
+414,414,48,Manager - Supply Chain & SCM,18,50.6,Active,Aligned with annual career development plan.
+415,415,20,Manager - Automation & Control,24,67.0,Active,Aligned with annual career development plan.
+416,416,49,Head - Supply Chain & SCM,18,27.7,Active,Aligned with annual career development plan.
+417,417,13,Manager - Electrical & Electronics,24,63.5,Active,Aligned with annual career development plan.
+418,418,3,Mechanical Engineer,18,3.4,Active,Aligned with annual career development plan.
+419,419,39,Senior Engineer - Quality Assurance & Metallurgy,24,37.6,Active,Aligned with annual career development plan.
+420,420,18,Senior Engineer - Automation & Control,24,56.0,Active,Aligned with annual career development plan.
+421,421,14,Head - Electrical & Electronics,18,8.9,Active,Aligned with annual career development plan.
+422,422,21,Head - Automation & Control,24,62.9,Active,Aligned with annual career development plan.
+423,423,7,Engineering Manager,24,58.7,Active,Aligned with annual career development plan.
+424,424,63,Head - AI & Digital Initiatives,12,41.8,Active,Aligned with annual career development plan.
+425,425,60,Senior Engineer - AI & Digital Initiatives,18,50.4,Active,Aligned with annual career development plan.
+426,426,69,Manager - Human Resources & L&D,24,3.8,Active,Aligned with annual career development plan.
+427,427,68,Specialist - Human Resources & L&D,24,15.1,Active,Aligned with annual career development plan.
+428,428,7,Engineering Manager,18,39.1,Active,Aligned with annual career development plan.
+429,429,56,Head - Information Technology,24,9.4,Active,Aligned with annual career development plan.
+430,430,6,EAF Mechanical Specialist,18,7.1,Active,Aligned with annual career development plan.
+431,431,68,Specialist - Human Resources & L&D,12,24.6,Active,Aligned with annual career development plan.
+432,432,63,Head - AI & Digital Initiatives,24,51.0,Active,Aligned with annual career development plan.
+433,433,17,Engineer - Automation & Control,18,43.5,Active,Aligned with annual career development plan.
+434,434,67,Senior Engineer - Human Resources & L&D,24,39.2,Active,Aligned with annual career development plan.
+435,435,25,Senior Engineer - Blast Furnace Operations,24,42.5,Active,Aligned with annual career development plan.
+436,436,18,Senior Engineer - Automation & Control,12,2.7,Active,Aligned with annual career development plan.
+437,437,33,Specialist - Rolling Mill Operations,24,49.6,Active,Aligned with annual career development plan.
+438,438,53,Senior Engineer - Information Technology,12,7.2,Active,Aligned with annual career development plan.
+439,439,48,Manager - Supply Chain & SCM,18,68.5,Active,Aligned with annual career development plan.
+440,440,14,Head - Electrical & Electronics,24,15.6,Active,Aligned with annual career development plan.
+441,441,38,Engineer - Quality Assurance & Metallurgy,18,42.6,Active,Aligned with annual career development plan.
+442,442,61,Specialist - AI & Digital Initiatives,24,7.8,Active,Aligned with annual career development plan.
+443,443,59,Engineer - AI & Digital Initiatives,24,30.4,Active,Aligned with annual career development plan.
+444,444,69,Manager - Human Resources & L&D,18,53.5,Active,Aligned with annual career development plan.
+445,445,6,EAF Mechanical Specialist,18,10.2,Active,Aligned with annual career development plan.
+446,446,33,Specialist - Rolling Mill Operations,24,6.1,Active,Aligned with annual career development plan.
+447,447,56,Head - Information Technology,12,34.4,Active,Aligned with annual career development plan.
+448,448,49,Head - Supply Chain & SCM,24,29.4,Active,Aligned with annual career development plan.
+449,449,26,Specialist - Blast Furnace Operations,12,41.6,Active,Aligned with annual career development plan.
+450,450,32,Senior Engineer - Rolling Mill Operations,24,58.2,Active,Aligned with annual career development plan.
+451,451,49,Head - Supply Chain & SCM,12,42.6,Active,Aligned with annual career development plan.
+452,452,4,Senior Mechanical Engineer,18,28.5,Active,Aligned with annual career development plan.
+453,453,7,Engineering Manager,24,6.1,Active,Aligned with annual career development plan.
+454,454,16,Senior Technician - Automation & Control,12,23.8,Active,Aligned with annual career development plan.
+455,455,35,Head - Rolling Mill Operations,12,51.1,Active,Aligned with annual career development plan.
+456,456,69,Manager - Human Resources & L&D,12,0.9,Active,Aligned with annual career development plan.
+457,457,14,Head - Electrical & Electronics,18,45.3,Active,Aligned with annual career development plan.
+458,458,28,Head - Blast Furnace Operations,12,34.6,Active,Aligned with annual career development plan.
+459,459,7,Engineering Manager,12,9.2,Active,Aligned with annual career development plan.
+460,460,70,Head - Human Resources & L&D,18,64.5,Active,Aligned with annual career development plan.
+461,461,61,Specialist - AI & Digital Initiatives,24,23.0,Active,Aligned with annual career development plan.
+462,462,28,Head - Blast Furnace Operations,12,28.0,Active,Aligned with annual career development plan.
+463,463,21,Head - Automation & Control,24,4.8,Active,Aligned with annual career development plan.
+464,464,3,Mechanical Engineer,12,48.3,Active,Aligned with annual career development plan.
+465,465,46,Senior Engineer - Supply Chain & SCM,12,11.2,Active,Aligned with annual career development plan.
+466,466,20,Manager - Automation & Control,12,8.4,Active,Aligned with annual career development plan.
+467,467,70,Head - Human Resources & L&D,18,49.8,Active,Aligned with annual career development plan.
+468,468,49,Head - Supply Chain & SCM,24,43.4,Active,Aligned with annual career development plan.
+469,469,27,Manager - Blast Furnace Operations,12,57.7,Active,Aligned with annual career development plan.
+470,470,6,EAF Mechanical Specialist,12,18.9,Active,Aligned with annual career development plan.
+471,471,21,Head - Automation & Control,18,58.4,Active,Aligned with annual career development plan.
+472,472,7,Engineering Manager,12,20.2,Active,Aligned with annual career development plan.
+473,473,48,Manager - Supply Chain & SCM,18,2.0,Active,Aligned with annual career development plan.
+474,474,2,Senior Technician - Mechanical,12,4.1,Active,Aligned with annual career development plan.
+475,475,21,Head - Automation & Control,24,64.3,Active,Aligned with annual career development plan.
+476,476,14,Head - Electrical & Electronics,12,5.8,Active,Aligned with annual career development plan.
+477,477,33,Specialist - Rolling Mill Operations,12,0.1,Active,Aligned with annual career development plan.
+478,478,33,Specialist - Rolling Mill Operations,24,17.8,Active,Aligned with annual career development plan.
+479,479,49,Head - Supply Chain & SCM,12,20.8,Active,Aligned with annual career development plan.
+480,480,19,Specialist - Automation & Control,12,5.3,Active,Aligned with annual career development plan.
+481,481,58,Senior Technician - AI & Digital Initiatives,12,19.6,Active,Aligned with annual career development plan.
+482,482,47,Specialist - Supply Chain & SCM,12,38.2,Active,Aligned with annual career development plan.
+483,483,3,Mechanical Engineer,24,0.4,Active,Aligned with annual career development plan.
+484,484,49,Head - Supply Chain & SCM,24,32.8,Active,Aligned with annual career development plan.
+485,485,56,Head - Information Technology,18,66.9,Active,Aligned with annual career development plan.
+486,486,11,Senior Engineer - Electrical & Electronics,18,49.0,Active,Aligned with annual career development plan.
+487,487,9,Senior Technician - Electrical & Electronics,24,25.0,Active,Aligned with annual career development plan.
+488,488,35,Head - Rolling Mill Operations,12,4.4,Active,Aligned with annual career development plan.
+489,489,46,Senior Engineer - Supply Chain & SCM,18,6.7,Active,Aligned with annual career development plan.
+490,490,35,Head - Rolling Mill Operations,18,19.3,Active,Aligned with annual career development plan.
+491,491,8,Technician - Electrical & Electronics,24,57.4,Active,Aligned with annual career development plan.
+492,492,70,Head - Human Resources & L&D,12,18.0,Active,Aligned with annual career development plan.
+493,493,34,Manager - Rolling Mill Operations,12,20.3,Active,Aligned with annual career development plan.
+494,494,21,Head - Automation & Control,18,10.1,Active,Aligned with annual career development plan.
+495,495,42,Head - Quality Assurance & Metallurgy,18,50.0,Active,Aligned with annual career development plan.
+496,496,48,Manager - Supply Chain & SCM,18,2.4,Active,Aligned with annual career development plan.
+497,497,9,Senior Technician - Electrical & Electronics,24,67.8,Active,Aligned with annual career development plan.
+498,498,49,Head - Supply Chain & SCM,18,56.1,Active,Aligned with annual career development plan.
+499,499,66,Engineer - Human Resources & L&D,18,47.6,Active,Aligned with annual career development plan.
+500,500,56,Head - Information Technology,12,56.1,Active,Aligned with annual career development plan.

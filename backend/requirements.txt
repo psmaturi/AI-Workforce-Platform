@@ -1,0 +1,26 @@
+fastapi>=0.110.0
+uvicorn[standard]>=0.28.0
+pydantic>=2.6.0
+pydantic-settings>=2.2.0
+python-dotenv>=1.0.0
+langchain-core>=0.1.30
+langchain-ollama>=0.1.0
+# Phase 3 — RAG
+chromadb
+sentence-transformers
+pypdf
+langchain-community
+langchain-huggingface
+langchain-chroma
+# Phase 4 — Database
+sqlalchemy==2.0.36
+alembic==1.13.3
+psycopg2-binary
+aiosqlite
+Faker
+# Phase 5 — Machine Learning
+pandas
+numpy
+scikit-learn
+xgboost
+joblib

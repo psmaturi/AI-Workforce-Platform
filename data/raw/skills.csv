@@ -1,0 +1,201 @@
+id,name,category,subcategory,description,future_demand,criticality,is_active
+1,Mechanical Systems,Technical,Maintenance,Expertise in mechanical systems.,Critical,Critical,True
+2,EAF Operations,Technical,Ironmaking,Expertise in eaf operations.,Critical,Critical,True
+3,Maintenance,Technical,Maintenance,Expertise in maintenance.,Critical,Critical,True
+4,Predictive Maintenance,Technical,Maintenance,Expertise in predictive maintenance.,Medium,Medium,True
+5,Root Cause Analysis,Technical,Problem Solving,Expertise in root cause analysis.,Medium,Critical,True
+6,Equipment Reliability,Technical,Maintenance,Expertise in equipment reliability.,Critical,High,True
+7,Hydraulics,Technical,Maintenance,Expertise in hydraulics.,Critical,High,True
+8,Industrial Safety,Safety,Industrial Safety,Expertise in industrial safety.,Medium,Medium,True
+9,Electrical Systems,Technical,Instrumentation,Expertise in electrical systems.,High,Medium,True
+10,Condition Monitoring,Technical,Maintenance,Expertise in condition monitoring.,Critical,High,True
+11,PLC Programming,Technical,Automation,Expertise in plc programming.,High,Critical,True
+12,SCADA,Technical,Automation,Expertise in scada.,Critical,Medium,True
+13,Python,Digital,Software,Expertise in python.,Critical,High,True
+14,Machine Learning,Digital,Data Science,Expertise in machine learning.,High,Medium,True
+15,Data Analysis,Digital,Data Science,Expertise in data analysis.,Critical,High,True
+16,SAP ERP,Digital,Software,Expertise in sap erp.,Critical,Critical,True
+17,LOTO,Safety,Industrial Safety,Expertise in loto.,Critical,High,True
+18,Confined Space,Safety,Industrial Safety,Expertise in confined space.,High,Critical,True
+19,Safety skill - Industrial Safety 19,Safety,Industrial Safety,Description of Safety skill - Industrial Safety 19.,Medium,Medium,True
+20,Behavioral skill - Problem Solving 20,Behavioral,Problem Solving,Description of Behavioral skill - Problem Solving 20.,Low,High,True
+21,Technical skill - Instrumentation 21,Technical,Instrumentation,Description of Technical skill - Instrumentation 21.,Medium,High,True
+22,Leadership skill - Strategic Planning 22,Leadership,Strategic Planning,Description of Leadership skill - Strategic Planning 22.,Low,High,True
+23,Leadership skill - Team Operations 23,Leadership,Team Operations,Description of Leadership skill - Team Operations 23.,Low,Critical,True
+24,Behavioral skill - Problem Solving 24,Behavioral,Problem Solving,Description of Behavioral skill - Problem Solving 24.,Low,Low,True
+25,Behavioral skill - Communication 25,Behavioral,Communication,Description of Behavioral skill - Communication 25.,High,Medium,True
+26,Leadership skill - Team Operations 26,Leadership,Team Operations,Description of Leadership skill - Team Operations 26.,Low,Medium,True
+27,Safety skill - Industrial Safety 27,Safety,Industrial Safety,Description of Safety skill - Industrial Safety 27.,Medium,High,True
+28,Digital skill - Advanced Technologies 28,Digital,Advanced Technologies,Description of Digital skill - Advanced Technologies 28.,Low,Critical,True
+29,Leadership skill - Project Management 29,Leadership,Project Management,Description of Leadership skill - Project Management 29.,Medium,Low,True
+30,Leadership skill - Team Operations 30,Leadership,Team Operations,Description of Leadership skill - Team Operations 30.,High,High,True
+31,Digital skill - Data Science 31,Digital,Data Science,Description of Digital skill - Data Science 31.,Medium,High,True
+32,Leadership skill - Strategic Planning 32,Leadership,Strategic Planning,Description of Leadership skill - Strategic Planning 32.,High,Critical,True
+33,Safety skill - Compliance 33,Safety,Compliance,Description of Safety skill - Compliance 33.,Low,Medium,True
+34,Safety skill - Compliance 34,Safety,Compliance,Description of Safety skill - Compliance 34.,Low,Critical,True
+35,Digital skill - Software 35,Digital,Software,Description of Digital skill - Software 35.,High,High,True
+36,Digital skill - IIoT 36,Digital,IIoT,Description of Digital skill - IIoT 36.,High,Low,True
+37,Behavioral skill - Collaboration 37,Behavioral,Collaboration,Description of Behavioral skill - Collaboration 37.,High,High,True
+38,Digital skill - Data Science 38,Digital,Data Science,Description of Digital skill - Data Science 38.,High,Medium,True
+39,Safety skill - Compliance 39,Safety,Compliance,Description of Safety skill - Compliance 39.,High,High,True
+40,Leadership skill - Team Operations 40,Leadership,Team Operations,Description of Leadership skill - Team Operations 40.,High,High,True
+41,Behavioral skill - Problem Solving 41,Behavioral,Problem Solving,Description of Behavioral skill - Problem Solving 41.,Medium,Medium,True
+42,Leadership skill - Strategic Planning 42,Leadership,Strategic Planning,Description of Leadership skill - Strategic Planning 42.,Low,High,True
+43,Behavioral skill - Collaboration 43,Behavioral,Collaboration,Description of Behavioral skill - Collaboration 43.,Medium,Medium,True
+44,Technical skill - Maintenance 44,Technical,Maintenance,Description of Technical skill - Maintenance 44.,High,Medium,True
+45,Technical skill - Design 45,Technical,Design,Description of Technical skill - Design 45.,High,Low,True
+46,Technical skill - Design 46,Technical,Design,Description of Technical skill - Design 46.,High,Medium,True
+47,Behavioral skill - Problem Solving 47,Behavioral,Problem Solving,Description of Behavioral skill - Problem Solving 47.,High,Low,True
+48,Technical skill - Instrumentation 48,Technical,Instrumentation,Description of Technical skill - Instrumentation 48.,Low,High,True
+49,Technical skill - Instrumentation 49,Technical,Instrumentation,Description of Technical skill - Instrumentation 49.,Low,High,True
+50,Leadership skill - Project Management 50,Leadership,Project Management,Description of Leadership skill - Project Management 50.,Medium,Low,True
+51,Technical skill - Ironmaking 51,Technical,Ironmaking,Description of Technical skill - Ironmaking 51.,Medium,Critical,True
+52,Safety skill - Industrial Safety 52,Safety,Industrial Safety,Description of Safety skill - Industrial Safety 52.,Medium,Medium,True
+53,Technical skill - Instrumentation 53,Technical,Instrumentation,Description of Technical skill - Instrumentation 53.,Low,High,True
+54,Technical skill - Metallurgy 54,Technical,Metallurgy,Description of Technical skill - Metallurgy 54.,Medium,Medium,True
+55,Technical skill - Instrumentation 55,Technical,Instrumentation,Description of Technical skill - Instrumentation 55.,High,Low,True
+56,Safety skill - Hazard Management 56,Safety,Hazard Management,Description of Safety skill - Hazard Management 56.,High,Low,True
+57,Safety skill - Industrial Safety 57,Safety,Industrial Safety,Description of Safety skill - Industrial Safety 57.,High,High,True
+58,Technical skill - Automation 58,Technical,Automation,Description of Technical skill - Automation 58.,High,Medium,True
+59,Leadership skill - Project Management 59,Leadership,Project Management,Description of Leadership skill - Project Management 59.,High,Medium,True
+60,Leadership skill - Project Management 60,Leadership,Project Management,Description of Leadership skill - Project Management 60.,Medium,Critical,True
+61,Behavioral skill - Problem Solving 61,Behavioral,Problem Solving,Description of Behavioral skill - Problem Solving 61.,Medium,High,True
+62,Behavioral skill - Communication 62,Behavioral,Communication,Description of Behavioral skill - Communication 62.,Low,Medium,True
+63,Digital skill - IIoT 63,Digital,IIoT,Description of Digital skill - IIoT 63.,Low,Critical,True
+64,Leadership skill - Strategic Planning 64,Leadership,Strategic Planning,Description of Leadership skill - Strategic Planning 64.,Low,Critical,True
+65,Leadership skill - Project Management 65,Leadership,Project Management,Description of Leadership skill - Project Management 65.,Medium,Low,True
+66,Behavioral skill - Problem Solving 66,Behavioral,Problem Solving,Description of Behavioral skill - Problem Solving 66.,High,High,True
+67,Technical skill - Automation 67,Technical,Automation,Description of Technical skill - Automation 67.,Low,Critical,True
+68,Leadership skill - Project Management 68,Leadership,Project Management,Description of Leadership skill - Project Management 68.,High,Medium,True
+69,Behavioral skill - Problem Solving 69,Behavioral,Problem Solving,Description of Behavioral skill - Problem Solving 69.,High,Medium,True
+70,Safety skill - Industrial Safety 70,Safety,Industrial Safety,Description of Safety skill - Industrial Safety 70.,Medium,High,True
+71,Technical skill - Metallurgy 71,Technical,Metallurgy,Description of Technical skill - Metallurgy 71.,Medium,High,True
+72,Digital skill - IIoT 72,Digital,IIoT,Description of Digital skill - IIoT 72.,High,Critical,True
+73,Technical skill - Automation 73,Technical,Automation,Description of Technical skill - Automation 73.,High,High,True
+74,Safety skill - Industrial Safety 74,Safety,Industrial Safety,Description of Safety skill - Industrial Safety 74.,Medium,High,True
+75,Behavioral skill - Communication 75,Behavioral,Communication,Description of Behavioral skill - Communication 75.,Low,Medium,True
+76,Leadership skill - Project Management 76,Leadership,Project Management,Description of Leadership skill - Project Management 76.,Low,Critical,True
+77,Digital skill - Data Science 77,Digital,Data Science,Description of Digital skill - Data Science 77.,Low,High,True
+78,Behavioral skill - Problem Solving 78,Behavioral,Problem Solving,Description of Behavioral skill - Problem Solving 78.,Low,Medium,True
+79,Technical skill - Maintenance 79,Technical,Maintenance,Description of Technical skill - Maintenance 79.,Low,Critical,True
+80,Safety skill - Compliance 80,Safety,Compliance,Description of Safety skill - Compliance 80.,Low,Low,True
+81,Technical skill - Metallurgy 81,Technical,Metallurgy,Description of Technical skill - Metallurgy 81.,Medium,Low,True
+82,Leadership skill - Team Operations 82,Leadership,Team Operations,Description of Leadership skill - Team Operations 82.,High,High,True
+83,Safety skill - Hazard Management 83,Safety,Hazard Management,Description of Safety skill - Hazard Management 83.,High,Low,True
+84,Technical skill - Ironmaking 84,Technical,Ironmaking,Description of Technical skill - Ironmaking 84.,Medium,High,True
+85,Behavioral skill - Communication 85,Behavioral,Communication,Description of Behavioral skill - Communication 85.,High,Low,True
+86,Behavioral skill - Problem Solving 86,Behavioral,Problem Solving,Description of Behavioral skill - Problem Solving 86.,Low,Critical,True
+87,Safety skill - Compliance 87,Safety,Compliance,Description of Safety skill - Compliance 87.,Medium,Medium,True
+88,Behavioral skill - Problem Solving 88,Behavioral,Problem Solving,Description of Behavioral skill - Problem Solving 88.,High,High,True
+89,Behavioral skill - Collaboration 89,Behavioral,Collaboration,Description of Behavioral skill - Collaboration 89.,High,Medium,True
+90,Safety skill - Industrial Safety 90,Safety,Industrial Safety,Description of Safety skill - Industrial Safety 90.,High,Medium,True
+91,Leadership skill - Strategic Planning 91,Leadership,Strategic Planning,Description of Leadership skill - Strategic Planning 91.,Medium,Low,True
+92,Leadership skill - Project Management 92,Leadership,Project Management,Description of Leadership skill - Project Management 92.,High,Medium,True
+93,Safety skill - Compliance 93,Safety,Compliance,Description of Safety skill - Compliance 93.,Medium,High,True
+94,Technical skill - Instrumentation 94,Technical,Instrumentation,Description of Technical skill - Instrumentation 94.,High,Medium,True
+95,Behavioral skill - Collaboration 95,Behavioral,Collaboration,Description of Behavioral skill - Collaboration 95.,High,High,True
+96,Behavioral skill - Collaboration 96,Behavioral,Collaboration,Description of Behavioral skill - Collaboration 96.,Low,Medium,True
+97,Technical skill - Instrumentation 97,Technical,Instrumentation,Description of Technical skill - Instrumentation 97.,Low,Critical,True
+98,Behavioral skill - Collaboration 98,Behavioral,Collaboration,Description of Behavioral skill - Collaboration 98.,High,Low,True
+99,Digital skill - IIoT 99,Digital,IIoT,Description of Digital skill - IIoT 99.,Low,Critical,True
+100,Technical skill - Automation 100,Technical,Automation,Description of Technical skill - Automation 100.,High,Critical,True
+101,Leadership skill - Project Management 101,Leadership,Project Management,Description of Leadership skill - Project Management 101.,Low,Medium,True
+102,Digital skill - Data Science 102,Digital,Data Science,Description of Digital skill - Data Science 102.,Low,Low,True
+103,Behavioral skill - Collaboration 103,Behavioral,Collaboration,Description of Behavioral skill - Collaboration 103.,High,Low,True
+104,Behavioral skill - Collaboration 104,Behavioral,Collaboration,Description of Behavioral skill - Collaboration 104.,Low,Medium,True
+105,Safety skill - Compliance 105,Safety,Compliance,Description of Safety skill - Compliance 105.,Low,High,True
+106,Technical skill - Instrumentation 106,Technical,Instrumentation,Description of Technical skill - Instrumentation 106.,High,Medium,True
+107,Behavioral skill - Collaboration 107,Behavioral,Collaboration,Description of Behavioral skill - Collaboration 107.,Medium,Critical,True
+108,Digital skill - Data Science 108,Digital,Data Science,Description of Digital skill - Data Science 108.,Medium,Low,True
+109,Technical skill - Instrumentation 109,Technical,Instrumentation,Description of Technical skill - Instrumentation 109.,High,Medium,True
+110,Safety skill - Industrial Safety 110,Safety,Industrial Safety,Description of Safety skill - Industrial Safety 110.,High,Medium,True
+111,Safety skill - Compliance 111,Safety,Compliance,Description of Safety skill - Compliance 111.,Medium,Critical,True
+112,Leadership skill - Team Operations 112,Leadership,Team Operations,Description of Leadership skill - Team Operations 112.,Low,Critical,True
+113,Safety skill - Hazard Management 113,Safety,Hazard Management,Description of Safety skill - Hazard Management 113.,High,Low,True
+114,Safety skill - Industrial Safety 114,Safety,Industrial Safety,Description of Safety skill - Industrial Safety 114.,Medium,Critical,True
+115,Behavioral skill - Problem Solving 115,Behavioral,Problem Solving,Description of Behavioral skill - Problem Solving 115.,Low,Medium,True
+116,Safety skill - Hazard Management 116,Safety,Hazard Management,Description of Safety skill - Hazard Management 116.,Low,Critical,True
+117,Technical skill - Metallurgy 117,Technical,Metallurgy,Description of Technical skill - Metallurgy 117.,Medium,Critical,True
+118,Digital skill - IIoT 118,Digital,IIoT,Description of Digital skill - IIoT 118.,High,Medium,True
+119,Digital skill - IIoT 119,Digital,IIoT,Description of Digital skill - IIoT 119.,Medium,Low,True
+120,Digital skill - Software 120,Digital,Software,Description of Digital skill - Software 120.,High,Medium,True
+121,Technical skill - Automation 121,Technical,Automation,Description of Technical skill - Automation 121.,High,Medium,True
+122,Digital skill - Data Science 122,Digital,Data Science,Description of Digital skill - Data Science 122.,Low,High,True
+123,Technical skill - Automation 123,Technical,Automation,Description of Technical skill - Automation 123.,Low,High,True
+124,Safety skill - Industrial Safety 124,Safety,Industrial Safety,Description of Safety skill - Industrial Safety 124.,Low,High,True
+125,Safety skill - Industrial Safety 125,Safety,Industrial Safety,Description of Safety skill - Industrial Safety 125.,Medium,Critical,True
+126,Safety skill - Compliance 126,Safety,Compliance,Description of Safety skill - Compliance 126.,Low,Critical,True
+127,Behavioral skill - Communication 127,Behavioral,Communication,Description of Behavioral skill - Communication 127.,Medium,High,True
+128,Technical skill - Automation 128,Technical,Automation,Description of Technical skill - Automation 128.,Low,Low,True
+129,Technical skill - Ironmaking 129,Technical,Ironmaking,Description of Technical skill - Ironmaking 129.,Low,Low,True
+130,Safety skill - Industrial Safety 130,Safety,Industrial Safety,Description of Safety skill - Industrial Safety 130.,Low,Critical,True
+131,Digital skill - Software 131,Digital,Software,Description of Digital skill - Software 131.,High,Low,True
+132,Digital skill - Software 132,Digital,Software,Description of Digital skill - Software 132.,Low,Low,True
+133,Digital skill - Advanced Technologies 133,Digital,Advanced Technologies,Description of Digital skill - Advanced Technologies 133.,Low,Medium,True
+134,Safety skill - Industrial Safety 134,Safety,Industrial Safety,Description of Safety skill - Industrial Safety 134.,Medium,Low,True
+135,Safety skill - Compliance 135,Safety,Compliance,Description of Safety skill - Compliance 135.,Medium,Medium,True
+136,Leadership skill - Project Management 136,Leadership,Project Management,Description of Leadership skill - Project Management 136.,Medium,Low,True
+137,Leadership skill - Team Operations 137,Leadership,Team Operations,Description of Leadership skill - Team Operations 137.,High,Medium,True
+138,Safety skill - Industrial Safety 138,Safety,Industrial Safety,Description of Safety skill - Industrial Safety 138.,Medium,Medium,True
+139,Safety skill - Compliance 139,Safety,Compliance,Description of Safety skill - Compliance 139.,Medium,Low,True
+140,Digital skill - Advanced Technologies 140,Digital,Advanced Technologies,Description of Digital skill - Advanced Technologies 140.,Medium,High,True
+141,Technical skill - Ironmaking 141,Technical,Ironmaking,Description of Technical skill - Ironmaking 141.,Low,High,True
+142,Digital skill - Advanced Technologies 142,Digital,Advanced Technologies,Description of Digital skill - Advanced Technologies 142.,Low,Medium,True
+143,Safety skill - Compliance 143,Safety,Compliance,Description of Safety skill - Compliance 143.,Low,Critical,True
+144,Technical skill - Design 144,Technical,Design,Description of Technical skill - Design 144.,Low,High,True
+145,Behavioral skill - Collaboration 145,Behavioral,Collaboration,Description of Behavioral skill - Collaboration 145.,Low,High,True
+146,Leadership skill - Strategic Planning 146,Leadership,Strategic Planning,Description of Leadership skill - Strategic Planning 146.,Medium,Critical,True
+147,Leadership skill - Strategic Planning 147,Leadership,Strategic Planning,Description of Leadership skill - Strategic Planning 147.,Medium,Medium,True
+148,Safety skill - Compliance 148,Safety,Compliance,Description of Safety skill - Compliance 148.,Medium,Medium,True
+149,Behavioral skill - Communication 149,Behavioral,Communication,Description of Behavioral skill - Communication 149.,Low,Low,True
+150,Digital skill - Advanced Technologies 150,Digital,Advanced Technologies,Description of Digital skill - Advanced Technologies 150.,Low,High,True
+151,Digital skill - Advanced Technologies 151,Digital,Advanced Technologies,Description of Digital skill - Advanced Technologies 151.,High,High,True
+152,Digital skill - Advanced Technologies 152,Digital,Advanced Technologies,Description of Digital skill - Advanced Technologies 152.,High,High,True
+153,Leadership skill - Strategic Planning 153,Leadership,Strategic Planning,Description of Leadership skill - Strategic Planning 153.,High,Critical,True
+154,Technical skill - Design 154,Technical,Design,Description of Technical skill - Design 154.,High,High,True
+155,Behavioral skill - Collaboration 155,Behavioral,Collaboration,Description of Behavioral skill - Collaboration 155.,Medium,Low,True
+156,Technical skill - Metallurgy 156,Technical,Metallurgy,Description of Technical skill - Metallurgy 156.,High,Low,True
+157,Safety skill - Hazard Management 157,Safety,Hazard Management,Description of Safety skill - Hazard Management 157.,High,Medium,True
+158,Digital skill - Advanced Technologies 158,Digital,Advanced Technologies,Description of Digital skill - Advanced Technologies 158.,Medium,Low,True
+159,Behavioral skill - Communication 159,Behavioral,Communication,Description of Behavioral skill - Communication 159.,Low,Critical,True
+160,Digital skill - Software 160,Digital,Software,Description of Digital skill - Software 160.,High,Low,True
+161,Leadership skill - Strategic Planning 161,Leadership,Strategic Planning,Description of Leadership skill - Strategic Planning 161.,High,Medium,True
+162,Technical skill - Maintenance 162,Technical,Maintenance,Description of Technical skill - Maintenance 162.,Low,Medium,True
+163,Safety skill - Compliance 163,Safety,Compliance,Description of Safety skill - Compliance 163.,Low,High,True
+164,Safety skill - Hazard Management 164,Safety,Hazard Management,Description of Safety skill - Hazard Management 164.,Low,Medium,True
+165,Behavioral skill - Problem Solving 165,Behavioral,Problem Solving,Description of Behavioral skill - Problem Solving 165.,Medium,Low,True
+166,Leadership skill - Team Operations 166,Leadership,Team Operations,Description of Leadership skill - Team Operations 166.,Low,Medium,True
+167,Technical skill - Design 167,Technical,Design,Description of Technical skill - Design 167.,High,High,True
+168,Leadership skill - Team Operations 168,Leadership,Team Operations,Description of Leadership skill - Team Operations 168.,Low,High,True
+169,Technical skill - Metallurgy 169,Technical,Metallurgy,Description of Technical skill - Metallurgy 169.,Low,Medium,True
+170,Technical skill - Ironmaking 170,Technical,Ironmaking,Description of Technical skill - Ironmaking 170.,Medium,High,True
+171,Safety skill - Industrial Safety 171,Safety,Industrial Safety,Description of Safety skill - Industrial Safety 171.,High,Critical,True
+172,Safety skill - Industrial Safety 172,Safety,Industrial Safety,Description of Safety skill - Industrial Safety 172.,High,Critical,True
+173,Behavioral skill - Communication 173,Behavioral,Communication,Description of Behavioral skill - Communication 173.,High,Medium,True
+174,Leadership skill - Strategic Planning 174,Leadership,Strategic Planning,Description of Leadership skill - Strategic Planning 174.,High,High,True
+175,Safety skill - Compliance 175,Safety,Compliance,Description of Safety skill - Compliance 175.,High,High,True
+176,Safety skill - Industrial Safety 176,Safety,Industrial Safety,Description of Safety skill - Industrial Safety 176.,Medium,Low,True
+177,Safety skill - Compliance 177,Safety,Compliance,Description of Safety skill - Compliance 177.,Low,High,True
+178,Behavioral skill - Communication 178,Behavioral,Communication,Description of Behavioral skill - Communication 178.,Medium,Critical,True
+179,Behavioral skill - Problem Solving 179,Behavioral,Problem Solving,Description of Behavioral skill - Problem Solving 179.,Medium,Low,True
+180,Leadership skill - Strategic Planning 180,Leadership,Strategic Planning,Description of Leadership skill - Strategic Planning 180.,Low,Low,True
+181,Leadership skill - Strategic Planning 181,Leadership,Strategic Planning,Description of Leadership skill - Strategic Planning 181.,Medium,High,True
+182,Behavioral skill - Problem Solving 182,Behavioral,Problem Solving,Description of Behavioral skill - Problem Solving 182.,Low,Medium,True
+183,Safety skill - Compliance 183,Safety,Compliance,Description of Safety skill - Compliance 183.,High,Medium,True
+184,Technical skill - Instrumentation 184,Technical,Instrumentation,Description of Technical skill - Instrumentation 184.,High,High,True
+185,Behavioral skill - Problem Solving 185,Behavioral,Problem Solving,Description of Behavioral skill - Problem Solving 185.,Medium,Low,True
+186,Behavioral skill - Problem Solving 186,Behavioral,Problem Solving,Description of Behavioral skill - Problem Solving 186.,Medium,Medium,True
+187,Leadership skill - Team Operations 187,Leadership,Team Operations,Description of Leadership skill - Team Operations 187.,High,Medium,True
+188,Leadership skill - Team Operations 188,Leadership,Team Operations,Description of Leadership skill - Team Operations 188.,Low,High,True
+189,Safety skill - Industrial Safety 189,Safety,Industrial Safety,Description of Safety skill - Industrial Safety 189.,Low,High,True
+190,Leadership skill - Team Operations 190,Leadership,Team Operations,Description of Leadership skill - Team Operations 190.,High,High,True
+191,Leadership skill - Project Management 191,Leadership,Project Management,Description of Leadership skill - Project Management 191.,High,Low,True
+192,Safety skill - Hazard Management 192,Safety,Hazard Management,Description of Safety skill - Hazard Management 192.,Medium,High,True
+193,Digital skill - Software 193,Digital,Software,Description of Digital skill - Software 193.,High,Low,True
+194,Safety skill - Compliance 194,Safety,Compliance,Description of Safety skill - Compliance 194.,High,Medium,True
+195,Safety skill - Compliance 195,Safety,Compliance,Description of Safety skill - Compliance 195.,Medium,High,True
+196,Safety skill - Compliance 196,Safety,Compliance,Description of Safety skill - Compliance 196.,Low,Low,True
+197,Technical skill - Metallurgy 197,Technical,Metallurgy,Description of Technical skill - Metallurgy 197.,Low,Low,True
+198,Digital skill - Data Science 198,Digital,Data Science,Description of Digital skill - Data Science 198.,Low,Low,True
+199,Leadership skill - Project Management 199,Leadership,Project Management,Description of Leadership skill - Project Management 199.,High,High,True
+200,Safety skill - Industrial Safety 200,Safety,Industrial Safety,Description of Safety skill - Industrial Safety 200.,High,Critical,True

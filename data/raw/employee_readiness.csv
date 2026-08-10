@@ -1,0 +1,51 @@
+id,employee_id,target_role_id,readiness_score,classification
+1,1,6,60.5,Developing
+2,2,59,73.4,Developing
+3,3,42,58.9,Nearly Ready
+4,4,27,61.1,Nearly Ready
+5,5,56,30.5,Ready
+6,6,21,63.6,Not Ready
+7,7,7,50.5,Not Ready
+8,8,44,91.9,Nearly Ready
+9,9,28,63.7,Ready
+10,10,30,50.6,Not Ready
+11,11,19,33.9,Ready
+12,12,24,61.3,Not Ready
+13,13,25,37.3,Developing
+14,14,53,79.8,Ready
+15,15,16,53.2,Developing
+16,16,61,56.8,Nearly Ready
+17,17,24,54.6,Developing
+18,18,49,91.5,Not Ready
+19,19,33,92.7,Not Ready
+20,20,36,31.0,Developing
+21,21,21,64.5,Not Ready
+22,22,47,32.0,Ready
+23,23,35,70.2,Nearly Ready
+24,24,26,82.3,Ready
+25,25,35,40.1,Developing
+26,26,40,94.4,Nearly Ready
+27,27,52,92.7,Nearly Ready
+28,28,56,85.8,Not Ready
+29,29,53,46.9,Ready
+30,30,14,68.2,Nearly Ready
+31,31,33,54.7,Not Ready
+32,32,5,52.1,Developing
+33,33,27,73.4,Nearly Ready
+34,34,4,77.0,Nearly Ready
+35,35,70,39.0,Nearly Ready
+36,36,14,87.5,Ready
+37,37,61,46.3,Ready
+38,38,19,53.4,Developing
+39,39,20,54.9,Not Ready
+40,40,20,72.6,Ready
+41,41,35,65.7,Ready
+42,42,55,37.7,Ready
+43,43,4,91.3,Nearly Ready
+44,44,21,72.1,Developing
+45,45,55,46.4,Ready
+46,46,63,51.6,Developing
+47,47,47,38.7,Nearly Ready
+48,48,54,82.3,Developing
+49,49,69,68.3,Not Ready
+50,50,31,59.0,Not Ready
